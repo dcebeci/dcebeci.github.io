@@ -1,0 +1,46 @@
+url: https://dcebeci.github.io/
+baseurl: /dcebeci.github.io/
+
+# Site settings
+title: Apex Legends
+email: your-email@domain.com
+description: apex legend s9 event
+
+
+# Team names, titles and social links
+people:
+- name: OLYMPUS
+  pic: 1
+  position: New arena map
+
+- name: WORLD'S EDGE
+  pic: 2
+  position: New arena map
+
+
+- name: ICARUS
+  pic: 3
+  position: New arena map
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty

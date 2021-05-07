@@ -1,0 +1,14 @@
+---
+title: Legacy Pack
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: apex-legacy-pack.png
+thumbnail: apex-legacy-pack.png
+alt: image-alt
+project-date: April 2021
+client: Start Bootstrap
+category: Battle Royale
+description: Launch into the fight with the Rare “Turquoise Sun” Valkyrie skin and 600 Apex Coins!.
+
+---

@@ -1,0 +1,13 @@
+---
+title: Legacy Ranked
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: ranked.png
+thumbnail: apex-legacy-grid-2.png
+alt: image-alt
+project-date: April 2021
+client: Start Bootstrap
+category: Battle Royale
+description: Prove yourself in Ranked and go down as one of the greats.
+---

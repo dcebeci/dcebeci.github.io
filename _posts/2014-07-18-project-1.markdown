@@ -1,0 +1,14 @@
+---
+title: Legacy Battle Pass
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: battlepass.png
+thumbnail: apex-legacy-grid-1.png
+alt: image-alt
+project-date: April 2021
+client: Battle Pass
+category: Battle Royale
+description: Battle through Daily and Weekly Challenges to earn unique rewards like Apex Packs, XP Boosts, and skins!
+
+---
